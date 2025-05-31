@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.sheshkon.twa",
-        "sha256_cert_fingerprints": ["10:AC:FC:A5:6B:C3:93:21:EE:C7:03:C9:16:4A:EA:B0:99:39:DB:6D:E3:61:B3:21:91:39:6F:C4:DA:24:5B:62"]
+        "sha256_cert_fingerprints": ["0D:59:C0:9E:28:62:27:0D:39:13:90:20:D1:CD:F0:C6:8E:AB:78:EE:08:D4:36:9C:7B:87:49:E8:3C:A3:41:CE"]
       }
     }]
