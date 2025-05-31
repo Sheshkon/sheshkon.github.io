@@ -1,5 +1,18 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "io.github.sheshkon.twa",
-    "sha256_cert_fingerprints": ["5E:CD:FD:75:40:C2:5C:BF:19:8F:77:DA:DA:CD:43:B9:80:A5:BC:27:5E:86:35:58:C6:B2:52:58:39:4F:25:78"] }
-}]
+  "target": {
+    "namespace": "web",
+    "site": "https://sheshkon.github.io"
+  }
+},
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sheshkon.twa",
+      "sha256_cert_fingerprints": [
+        "0D:59:C0:9E:28:62:27:0D:39:13:90:20:D1:CD:F0:C6:8E:AB:78:EE:08:D4:36:9C:7B:87:49:E8:3C:A3:41:CE",
+        "5E:CD:FD:75:40:C2:5C:BF:19:8F:77:DA:DA:CD:43:B9:80:A5:BC:27:5E:86:35:58:C6:B2:52:58:39:4F:25:78"
+      ]
+    }
+  }]
