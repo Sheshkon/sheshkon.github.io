@@ -11,6 +11,8 @@
       "namespace": "android_app",
       "package_name": "io.github.sheshkon.twa",
       "sha256_cert_fingerprints": [
-        "70:DE:8D:45:25:BF:C4:09:55:21:C9:EB:7D:3A:0A:09:0A:3D:92:A1:D8:98:B8:EC:EC:1A:89:C8:54:D6:06:AC"]
+        "70:DE:8D:45:25:BF:C4:09:55:21:C9:EB:7D:3A:0A:09:0A:3D:92:A1:D8:98:B8:EC:EC:1A:89:C8:54:D6:06:AC",
+        "5C:65:CE:5B:C3:39:DB:F7:38:13:87:04:E7:9D:D0:7D:50:04:DD:4A:0E:DC:D7:57:9F:34:53:87:33:DF:FE:68"
+      ]
     }
   }]
