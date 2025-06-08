@@ -1,5 +1,1 @@
-defaults:
-  - scope:
-      path: ".well-known"
-    values:
-      content_type: "application/json"
+include: [".well-known"]
