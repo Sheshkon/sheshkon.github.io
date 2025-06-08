@@ -1,6 +1,3 @@
----
-permalink: /.well-known/web-app-origin-association
----
 {
   "web_apps": [
     {
